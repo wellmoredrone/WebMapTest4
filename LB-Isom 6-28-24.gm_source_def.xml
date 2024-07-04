@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<source_list version="1.0" creator="Global Mapper - http://www.globalmapper.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.globalmapper.com/OSL/1/0" xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+<source type="TMS">
+  <name>LB-Isom 6-28-24</name>
+  <RequesterPays>1</RequesterPays>
+  <FileExt>png</FileExt>
+  <LatLonBounds>-82.001953125,37.474858085,-81.958007812,37.509725843</LatLonBounds>
+  <NumZoomLevels>22</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL><![CDATA[file:///C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING%2C%20LLC/Desktop/Testing/Tiles%204%20%28Global%20Mapper%29/]]></BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+</source>
+</source_list>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tilemap tilemapservice="http://www.osgeo.org/services/tilemapservice.xml" version="1.0.0">
+<title>LB-Isom 6-28-24</title>
+<abstract></abstract>
+<srs>EPSG:900913</srs>
+<vsrs></vsrs>
+<boundingbox maxx="-9123523.6961185" maxy="4510396.1650516" minx="-9128415.6659288" miny="4505504.1952414">
+</boundingbox>
+<origin x="-20037508.3427890" y="-20037508.3427890"></origin>
+<tileformat extension="png" height="256" mime-type="image/png" width="256">
+</tileformat>
+<tilesets profile="global-mercator">
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/14" order="14" units-per-pixel="9.5546285"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/15" order="15" units-per-pixel="4.7773143"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/16" order="16" units-per-pixel="2.3886571"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/17" order="17" units-per-pixel="1.1943286"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/18" order="18" units-per-pixel="0.5971643"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/19" order="19" units-per-pixel="0.2985821"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/20" order="20" units-per-pixel="0.1492911"></tileset>
+  <tileset href="C:/Users/derrick.edwards/OneDrive%20-%20METINVEST%20HOLDING,%20LLC/Desktop/Testing/Tiles%204%20(Global%20Mapper)/21" order="21" units-per-pixel="0.0746455"></tileset>
+</tilesets>
+</tilemap>
